@@ -568,7 +568,7 @@ footer span a:hover{
         width: calc(50% - 10px);
         margin-bottom: 20px;
     }
-    .skills .skills-content .column,
+    .column,
     .contact .contact-content .column{
         width: 100%;
         margin-bottom: 35px;
@@ -601,7 +601,7 @@ footer span a:hover{
         font-size: 27px;
     }
     .about .about-content .right .text,
-    .skills .skills-content .left .text{
+    .left .text{
         font-size: 19px;
     }
     .contact .right form .fields{
